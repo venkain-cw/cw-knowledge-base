@@ -1,1 +1,1 @@
-# CLoudways Knowledge Base
+# Cloudways Knowledge Base

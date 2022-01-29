@@ -1,0 +1,14 @@
+- Clear site data, including DNS cache
+  - In your browser address bar, place: `chrome://settings/content/all`
+  - Use searchbox at top righ for the domain
+  - 3-dot menu > __Clear data__
+  - https://i.imgur.com/tqE9PQU.png
+
+- Check actual IP used by a site
+  - Visit your site
+  - Hit F12 on your keyboard
+  - Click Network tab
+  - Click the Doc filter
+  - Click the request URL for the page itself
+  - See the Remote Address info
+  - https://i.imgur.com/JXZ3wcI.png
